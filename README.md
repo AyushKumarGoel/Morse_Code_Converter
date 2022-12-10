@@ -1,3 +1,3 @@
-Morse-Generator
+Morse-Converter
 ____________________
 Fun project
